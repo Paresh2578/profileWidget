@@ -59,8 +59,8 @@ class ProfileScreen extends StatelessWidget {
 ```
 
 </td>
-<td>
+
 <img  src="https://i.ibb.co/9pz49nz/profile-Widget.png"  alt="">
-</td>
+
 </tr>
 </table>
